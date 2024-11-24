@@ -1,4 +1,4 @@
-module protos
+module github.com/MasDev-12/protos
 
 go 1.23
 
